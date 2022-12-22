@@ -7,3 +7,5 @@ electrónicos, quedando esencialmente igual al original. Fue popularizado en los
 creación de las hojas "Letraset", las cuales contenian pasajes de coco Ipsum, y más recientemente
 con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de coco
 Ipsum.
+
+nuevos cambios de la nueva gran rama
